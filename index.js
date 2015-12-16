@@ -5,7 +5,7 @@ module.exports = function(el){
 	var width = el.offsetWidth;
 
 	var outerHeight = height + parseInt(style.marginTop) + parseInt(style.marginBottom);
-	var outerWidth = height + parseInt(style.marginLeft) + parseInt(style.marginRight);
+	var outerWidth = width + parseInt(style.marginLeft) + parseInt(style.marginRight);
 
 	return {
 		width:width,
