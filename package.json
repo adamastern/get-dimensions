@@ -1,0 +1,24 @@
+{
+	"name": "get-dimensions",
+	"version": "0.2.0",
+	"description": "A small library for getting the dimensions of DOM elements",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/adamastern/get-dimensions.git"
+	},
+	"keywords": [
+		"dimensions",
+		"size",
+		"jquery",
+		"outerheight",
+		"width",
+		"height"
+	],
+	"author": "Adam Stern <stern.adam1@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/adamastern/get-dimensions/issues"
+	}
+}
