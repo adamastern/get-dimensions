@@ -1,6 +1,6 @@
 # get-dimensions
 
-[![npm package][npm-badge]][npm]
+[![npm](https://img.shields.io/npm/v/get-dimensions.svg?maxAge=2592000)](https://www.npmjs.com/package/get-dimensions)
 
 Get the dimensions of a DOM element.
 
